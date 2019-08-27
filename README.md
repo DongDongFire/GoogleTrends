@@ -1,2 +1,2 @@
 # GoogleTrends
-Analysis of Search Data from Google Trends
+1. Screenshot auto program
